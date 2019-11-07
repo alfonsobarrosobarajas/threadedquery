@@ -4,7 +4,6 @@
     <list default="true" id="5fda2ab8-07dc-4e17-80e5-3553ac5cc3b1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/threadedquery/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/threadedquery/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/threadedquery/auxiliar/QueryDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/threadedquery/auxiliar/QueryDB.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

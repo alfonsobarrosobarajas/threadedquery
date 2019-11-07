@@ -2,7 +2,6 @@ package com.threadedquery;
 
 import com.threadedquery.auxiliar.QueryDB;
 
-import java.awt.*;
 import java.sql.SQLException;
 import java.util.Scanner;
 
@@ -25,5 +24,9 @@ public class Main {
         System.out.println("Hola " + nombre + "!");
 
 
+        String g = "alfonsobarrosobarajas@gmail.com";
+        String str = g.replaceAll("@", "[at]");
+
+        System.out.println(str);
     }
 }
