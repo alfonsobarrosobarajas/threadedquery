@@ -47,11 +47,14 @@ public class QueryDB extends Thread {
 
         try {
             process();
+            Thread.sleep(100l);
         } catch (SQLException e) {
             e.printStackTrace();
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         } catch (IOException e) {
+            e.printStackTrace();
+        } catch (InterruptedException e) {
             e.printStackTrace();
         }
     }
